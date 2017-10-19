@@ -1,0 +1,13 @@
+<div class="items">
+
+    <p><span class="chose" ng-class="{on:item.state}" ng-click="itemchecked(index)"></span><span class="del" ng-click="deleteArry(index)">x</span></p>
+    <p>
+        <span>{{item.name}}</span>
+        <span><img ng-src="{{item.image}}" alt=""></span>
+        <span>${{item.price}}</span>
+    </p>
+    <p>
+        <b class="readce" ng-click="dianji('-',index)">-</b>
+        <b class="num">{{item.num}}</b>
+        <b class="add" ng-click="dianji('+',index)">+</b></p>
+</div>

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "2017新款短靴",
+    "image": "content/img/img1.png",
+    "addr": "北京",
+    "state": true,
+    "num": 1,
+    "price": 158,
+    "size": "M",
+    "color": "red"
+  },
+  {
+    "id": 2,
+    "name": "斗篷风衣外套",
+    "image": "content/img/img2.png",
+    "addr": "北京",
+    "state": true,
+    "num": 1,
+    "price": 240,
+    "size": "M",
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "name": "复古圆头短靴",
+    "image": "content/img/img3.png",
+    "addr": "北京",
+    "state": false,
+    "num": 1,
+    "price": 168,
+    "size": "M",
+    "color": "skyblue"
+  }
+]
